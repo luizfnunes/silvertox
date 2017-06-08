@@ -1,0 +1,17 @@
+/* XPM */
+static char * C:\Users\Luiz\Desktop\Nox\xfwm4\bottom_right_inactive_xpm[] = {
+"8 8 6 1",
+" 	c None",
+".	c #78787C",
+"+	c #9D9D9F",
+"@	c #CFD1D1",
+"#	c #BEBFBF",
+"$	c #7A7A7E",
+".+@@@#+.",
+"+@@@@#+.",
+"@@@@@#+.",
+"@@@@@#+.",
+"@@@@#+. ",
+"####+.  ",
+"++++.   ",
+"$...    "};
